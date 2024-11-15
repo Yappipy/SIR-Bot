@@ -1,0 +1,25 @@
+# SQLite database
+bot_database.db
+
+# Python
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environments
+env/
+venv/
+.venv/
+.env
+
+# IDE and editor-specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# OS-specific
+.DS_Store
